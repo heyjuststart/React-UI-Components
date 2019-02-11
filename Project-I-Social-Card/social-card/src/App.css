@@ -59,7 +59,6 @@ html, body {
 
 .app-container {
   font-size: 1.4rem;
-  border: solid 1px blue;
   width: 590px;
   display: flex;
   flex-direction: column;
