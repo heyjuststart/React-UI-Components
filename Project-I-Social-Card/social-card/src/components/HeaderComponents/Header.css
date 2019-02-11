@@ -3,3 +3,11 @@
 .header-container {
   display: flex;
 }
+
+.lambda-logo {
+  padding: 3px;
+}
+
+.header-text {
+  padding: 5px;
+}
