@@ -8,6 +8,18 @@
   padding: 3px;
 }
 
+.header-title {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.header-title span {
+  font-weight: normal;
+  color: lightgrey;
+}
+
 .header-text {
-  padding: 5px;
+  padding: 3px;
+  line-height: 1.8rem;
+  margin-bottom: 10px;
 }
