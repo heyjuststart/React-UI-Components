@@ -4,5 +4,5 @@ import './Button.css';
 export default props => {
   const text = props.children;
   const classes = props.className;
-  return <div className={`action-button ${classes}`}>{ text }</div>;
+  return <div onClick={props.onClick} className={`action-button ${classes}`}>{ text }</div>;
 };
