@@ -1,0 +1,23 @@
+.action-button,
+.number-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  height: 93px;
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+
+.flex3 {
+  width: 75%;
+}
+
+.red {
+  background-color: #a0001e;
+  color: white;
+}
+
+.clear-button {
+  font-weight: normal;
+}
