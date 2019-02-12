@@ -7,7 +7,7 @@ class Heart extends React.Component {
   }
 
   increment() {
-    this.setState({ ...this.state, clicks: this.state.clicks + 1});
+    this.setState({ clicks: this.state.clicks + 1});
   }
 
   render() {
