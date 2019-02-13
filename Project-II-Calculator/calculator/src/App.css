@@ -1,0 +1,13 @@
+.calculator {
+  width: 457px;
+  border: 2px solid lightgray;
+}
+
+.calculator-row {
+  display: flex;
+  border-top: 2px solid lightgrey;
+}
+
+.calculator-row div:not(:last-child) {
+  border-right: 2px solid lightgrey;
+}
